@@ -1,0 +1,1 @@
+1. Application fast-api-dep-ui has been successfully deployed!!
